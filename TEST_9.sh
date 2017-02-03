@@ -88,10 +88,10 @@ if diff -b Correct_Result.dat k >/dev/null ; then
 else
   echo -e '\e[41m\e[97m    TEST-9    FAILED    \033[0m'
 fi
-#rm -f bck.* k
+rm -f bck.* k
 rm -f *~
 rm -f Cluster_*.dat
 rm -f plumed.dat
 rm -f TEST_1.xyz
 rm -f garbage
-#rm -f Correct_Result.dat
+rm -f Correct_Result.dat
