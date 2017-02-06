@@ -48,6 +48,10 @@ source /home/carles/Documents/mycodes/plumed2/sourceme.sh
 
 
 echo "Running TEST-7"
+echo "* Checks the right cutoff of the cylinder radius controlled by RADIUS"
+echo "* Checks that the detection of the atom does not depend on the kernel width but only on the centerposition of the liquid atom and the radius"
+echo "* Checks the independence of the kernel width.  The atomis punctual the perpendicular direction"
+
 rm -f kk.dat
 
 #cp PLUMED_1_CLUSTER plumed.dat
