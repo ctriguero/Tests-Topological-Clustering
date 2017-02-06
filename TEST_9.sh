@@ -49,6 +49,8 @@ source /home/carles/Documents/mycodes/plumed2/sourceme.sh
 
 
 echo "Running TEST-9"
+echo "* Checks the override of D-clustering over T-clustering controlled by SWITCH"
+
 rm -f kk.dat
 
 #cp PLUMED_1_CLUSTER plumed.dat
