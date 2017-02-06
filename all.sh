@@ -8,3 +8,4 @@
 ./TEST_7.sh
 ./TEST_8.sh
 ./TEST_9.sh
+./TEST_10.sh
