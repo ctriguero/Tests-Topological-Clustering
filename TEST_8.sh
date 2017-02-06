@@ -49,7 +49,7 @@ source /home/carles/Documents/mycodes/plumed2/sourceme.sh
 
 
 echo "Running TEST-8"
-echo "* Checks the correct overlap and integration of sea kernels controlled by SIGMA"
+echo "* Checks the overlap and integration of sea kernels controlled by SIGMA"
 rm -f kk.dat
 
 #cp PLUMED_1_CLUSTER plumed.dat
