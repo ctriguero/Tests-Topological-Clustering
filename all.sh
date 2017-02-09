@@ -9,3 +9,4 @@
 ./TEST_8.sh
 ./TEST_9.sh
 ./TEST_10.sh
+./TEST_11.sh
